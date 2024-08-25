@@ -12,5 +12,6 @@ void print_vector(const T& t, std::string seperator = " ") {
 
 // Write inline? function to execution time countdown
 // Write function to check other functions with n range data + time
+// Rewrite print_vector to avoid last char print
 
 #endif // UTILS_H_INCLUDED
